@@ -74,7 +74,7 @@ http://localhost/PI-Dosix/Projeto/public/index.php
 
 <hr>
 <div>
-    <h3>Desenvolvedores.</h3>
+    <h3>Desenvolvedores - Grupo 37</h3>
 </div>
 <div align="center">
   <sub><a href="https://github.com/ViniciuCristian21">VINICIU CRISTIAN DA SILVA</a></sub><br>
@@ -83,6 +83,6 @@ http://localhost/PI-Dosix/Projeto/public/index.php
   <sub><a href="https://github.com/Willian-1921">WILLIAN ANDRÉ DUTRA DE SOUZA
 </a></sub><br>
 <sub><a href="#">VINICIUS DE OLIVEIRA</a></sub><br>
-<sub><a href="#">YAGO RANGEL</a></sub><br>
+<sub><a href="[#](https://github.com/yrrangel)">YAGO RANGEL DE MELLO</a></sub><br>
 
 </div>
